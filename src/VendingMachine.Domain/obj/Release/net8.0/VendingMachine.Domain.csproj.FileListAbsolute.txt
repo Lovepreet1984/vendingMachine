@@ -1,0 +1,11 @@
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/bin/Release/net8.0/VendingMachine.Domain.deps.json
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/bin/Release/net8.0/VendingMachine.Domain.dll
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/bin/Release/net8.0/VendingMachine.Domain.pdb
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Release/net8.0/VendingMachine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Release/net8.0/VendingMachine.Domain.AssemblyInfoInputs.cache
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Release/net8.0/VendingMachine.Domain.AssemblyInfo.cs
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Release/net8.0/VendingMachine.Domain.csproj.CoreCompileInputs.cache
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Release/net8.0/VendingMachine.Domain.dll
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Release/net8.0/refint/VendingMachine.Domain.dll
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Release/net8.0/VendingMachine.Domain.pdb
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Release/net8.0/ref/VendingMachine.Domain.dll
