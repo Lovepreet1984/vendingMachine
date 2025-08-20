@@ -9,3 +9,4 @@
 /home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Debug/net8.0/refint/VendingMachine.Domain.dll
 /home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Debug/net8.0/VendingMachine.Domain.pdb
 /home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Debug/net8.0/ref/VendingMachine.Domain.dll
+/home/lovepreet/projects/vending-machine/src/VendingMachine.Domain/obj/Debug/net8.0/VendingMachine.Domain.sourcelink.json

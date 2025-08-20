@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F17D72EA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Tests", "tests\VendingMachine.Tests\VendingMachine.Tests.csproj", "{BAD7C993-CC72-4836-8D7E-0807EB4B40F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Demo", "src\VendingMachine.Demo\VendingMachine.Demo.csproj", "{18F890A9-D751-48D2-8A5A-61C648FD4E05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,9 +30,14 @@ Global
 		{BAD7C993-CC72-4836-8D7E-0807EB4B40F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD7C993-CC72-4836-8D7E-0807EB4B40F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD7C993-CC72-4836-8D7E-0807EB4B40F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F890A9-D751-48D2-8A5A-61C648FD4E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F890A9-D751-48D2-8A5A-61C648FD4E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F890A9-D751-48D2-8A5A-61C648FD4E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F890A9-D751-48D2-8A5A-61C648FD4E05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F30ECBCE-832A-46D3-99C8-F235107B6C64} = {3C8E9FBF-8B55-482A-9D96-9E29A4074F56}
 		{BAD7C993-CC72-4836-8D7E-0807EB4B40F3} = {F17D72EA-A382-4400-946D-37A6584A6A2B}
+		{18F890A9-D751-48D2-8A5A-61C648FD4E05} = {3C8E9FBF-8B55-482A-9D96-9E29A4074F56}
 	EndGlobalSection
 EndGlobal
